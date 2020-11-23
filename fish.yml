@@ -1,0 +1,15 @@
+Legendary:
+  Chance: 1
+  Items: []
+Epic:
+  Chance: 5
+  Items: []
+Rare:
+  Chance: 10
+  Items: []
+Common:
+  Chance: 35
+  Items: []
+Base:
+  Chance: 50
+  Items: []

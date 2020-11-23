@@ -1,0 +1,16 @@
+name: LGWAssist
+main: amata1219.leon.gun.war.assist.LGWAssist
+version: 1.8.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  lgw:
+    description: main command.
+    usage: /<command>
+    permission: leon.gun.war.assist.lgw
+    permission-message: You don't have permission "<permission>".
+  lgwmd:
+    description: moderator command.
+    usage: /<command>
+    permission: leon.gun.war.assist.lgwmd
+    permission-message: You don't have permission "<permission>".
